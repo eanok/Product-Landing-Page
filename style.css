@@ -1,0 +1,23 @@
+
+
+:root{
+    
+}
+
+
+*,
+*::before,
+*::after{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1,
+h2,
+h3{
+    margin: 0;
+}
